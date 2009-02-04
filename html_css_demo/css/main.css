@@ -1,0 +1,42 @@
+body {
+	font-family: Verdana, Helvetica, Arial, san-serif;
+	background-color: #E2EDFF;
+	line-height: 125%;
+
+	padding: 15px;
+	}
+
+
+p { color: navy;
+	font-size: small;
+}
+
+
+
+#tagline{ font-style: italic;
+		  font-family: Georgia, Times, Serif;
+}
+
+
+h1{ background-color: navy;
+    color: white; 
+    font-family: "Trevuchet MS", Helvetica, Arial, san-serif;
+}
+
+
+ul{ font-size: small;
+}
+
+
+		  
+
+.fun { color: #399;
+	   font-family: Georgia, Times, Serif;
+	   letter-spacing: 0.5em;
+}
+	
+
+h2{ background-color: navy; color: white; font-size: medium; font-weight: normal;}
+
+h3{ background-color: navy; color: white;}
+   
